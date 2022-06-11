@@ -8,10 +8,6 @@
     "build": "npx webpack --mode=production"
   },
   "devDependencies": {
-    "css-loader": "^6.7.1",
-    "mini-css-extract-plugin": "^2.6.0",
-    "sass": "^1.52.3",
-    "sass-loader": "^13.0.0",
     "ts-loader": "^9.3.0",
     "typescript": "^4.7.2",
     "webpack": "^5.72.1",
